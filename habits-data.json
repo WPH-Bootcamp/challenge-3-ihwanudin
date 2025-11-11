@@ -1,0 +1,53 @@
+{
+  "userProfile": {
+    "name": "Ihwanudin",
+    "joinDate": "2025-11-11T16:45:16.999Z",
+    "totalHabits": 5,
+    "completedThisWeek": 0
+  },
+  "habits": [
+    {
+      "id": 1762879522409.464,
+      "name": "Minum Air 8 Gelas",
+      "targetFrequency": 7,
+      "completions": [
+        "2025-11-10T17:00:00.000Z"
+      ],
+      "createdAt": "2025-11-11T16:45:22.409Z"
+    },
+    {
+      "id": 1762879522412.593,
+      "name": "Olahraga 30 Menit",
+      "targetFrequency": 5,
+      "completions": [
+        "2025-11-10T17:00:00.000Z"
+      ],
+      "createdAt": "2025-11-11T16:45:22.412Z"
+    },
+    {
+      "id": 1762879522413.2742,
+      "name": "Baca Buku 30 Menit",
+      "targetFrequency": 5,
+      "completions": [
+        "2025-11-10T17:00:00.000Z"
+      ],
+      "createdAt": "2025-11-11T16:45:22.413Z"
+    },
+    {
+      "id": 1762879522413.6948,
+      "name": "Meditasi 10 Menit",
+      "targetFrequency": 7,
+      "completions": [
+        "2025-11-10T17:00:00.000Z"
+      ],
+      "createdAt": "2025-11-11T16:45:22.413Z"
+    },
+    {
+      "id": 1762879522413.9639,
+      "name": "Menulis Jurnal",
+      "targetFrequency": 3,
+      "completions": [],
+      "createdAt": "2025-11-11T16:45:22.413Z"
+    }
+  ]
+}
